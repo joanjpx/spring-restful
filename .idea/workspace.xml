@@ -70,34 +70,39 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="392" y="89" key="#Project_Structure" timestamp="1583436624433">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1583436624433" />
-    <state x="628" y="340" width="368" height="179" key="Github.CreateGistDialog" timestamp="1583439113966">
+    <state x="628" y="340" width="368" height="179" key="Github.CreateGistDialog" timestamp="1583439281033">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="628" y="340" width="368" height="179" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1583439113966" />
-    <state width="1557" height="81" key="GridCell.Tab.0.bottom" timestamp="1583439194153">
+    <state x="628" y="340" width="368" height="179" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1583439281033" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1583439398919">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="81" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583439194153" />
-    <state width="1557" height="81" key="GridCell.Tab.0.center" timestamp="1583439194153">
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583439398919" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1583439398919">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="81" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583439194153" />
-    <state width="1557" height="81" key="GridCell.Tab.0.left" timestamp="1583439194153">
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583439398919" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1583439398919">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="81" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583439194153" />
-    <state width="1557" height="81" key="GridCell.Tab.0.right" timestamp="1583439194153">
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583439398919" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1583439398919">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="81" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583439194153" />
-    <state x="301" y="73" key="SettingsEditor" timestamp="1583439187830">
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583439398919" />
+    <state x="301" y="73" key="SettingsEditor" timestamp="1583439407910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583439187830" />
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583439407910" />
   </component>
 </project>
